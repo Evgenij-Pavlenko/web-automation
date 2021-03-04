@@ -15,3 +15,4 @@ Feature: Hovers Page
       | avatar_index | username|
       | 3            | user3   |
       | 2            | user2   |
+      | 1            | user1   |
